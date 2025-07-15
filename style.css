@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Be Vietnam Pro", sans-serif;
+  scroll-behavior: smooth;
 }
 html {
   scroll-behavior: smooth;
